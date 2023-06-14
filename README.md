@@ -1,1 +1,1 @@
-# OC-P5-Print-It
+Projet 5 : Premier pas sur le langage Javascript
